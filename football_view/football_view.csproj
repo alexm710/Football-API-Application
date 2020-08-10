@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Images\football-background.jpg\**" />
+    <EmbeddedResource Remove="Images\football-background.jpg\**" />
+    <None Remove="Images\football-background.jpg\**" />
+    <Page Remove="Images\football-background.jpg\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\football_from_scratch_core\football_from_scratch_client.csproj" />
+  </ItemGroup>
+
+</Project>
