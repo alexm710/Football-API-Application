@@ -8,7 +8,7 @@
         Title="AddExercise" Height="450" Width="450">
     <Grid >
         <Grid.Background>
-            <ImageBrush ImageSource="C:\Users\Suzanne\github\Football-API-Application\football_api_from_scratch\football_view\Images\football-background.jpg"/>
+            <ImageBrush ImageSource="C:\Users\Suzanne\github\Football-API-Application\football_view\Images\football-background.jpg"/>
         </Grid.Background>
         <Label Content="Player ID:" HorizontalAlignment="Left" Margin="6,44,0,0" VerticalAlignment="Top" FontWeight ="Bold" FontSize="17" Foreground="WhiteSmoke" FontFamily="Calibri"/>
         <Label Content="Player Name:" HorizontalAlignment="Left" Margin="6,104,0,0" VerticalAlignment="Top" FontWeight = "Bold" FontSize="17" Foreground="White" FontFamily="Calibri"/>

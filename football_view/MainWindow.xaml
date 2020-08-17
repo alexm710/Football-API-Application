@@ -28,16 +28,16 @@
         </Grid.RowDefinitions>
 
         <Grid.Background>
-            <ImageBrush ImageSource="C:\Users\Suzanne\github\Football-API-Application\football_api_from_scratch\football_view\Images\football-background.jpg"/>
+            <ImageBrush ImageSource="C:\Users\Suzanne\github\Football-API-Application\football_view\Images\football-background.jpg"/>
         </Grid.Background>
 
         <!--Images-->
-        <Image Source ="C:\Users\Suzanne\github\Football-API-Application\football_api_from_scratch\football_view\Images\bundesliga.png" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="1" Grid.RowSpan="2" />
-        <Image Source ="C:\Users\Suzanne\github\Football-API-Application\football_api_from_scratch\football_view\Images\premier-league.png" Grid.ColumnSpan="3"  Grid.RowSpan="2" Margin="6,10,127,10" Grid.Column="1" />
-        <Image Source ="C:\Users\Suzanne\github\Football-API-Application\football_api_from_scratch\football_view\Images\la-liga.jpg" Grid.Column="3" Grid.ColumnSpan="2"  Grid.RowSpan="2" Margin="17,0,116,0" />
-        <Image Source ="C:\Users\Suzanne\github\Football-API-Application\football_api_from_scratch\football_view\Images\ligue-1.jpg" Grid.Column="6" Grid.ColumnSpan="1" Grid.RowSpan="2" Margin="0,10,0,10"  />
-        <Image Source ="C:\Users\Suzanne\github\Football-API-Application\football_api_from_scratch\football_view\Images\serie-a.png" Grid.Column="5" Grid.ColumnSpan="2"  Grid.RowSpan="2" Margin="23,0,110,0" />
-        <Image Source ="C:\Users\Suzanne\github\Football-API-Application\football_api_from_scratch\football_view\Images\champions-league.jpg" Grid.Column="4" Grid.ColumnSpan="2" Grid.RowSpan="2" Margin="36,0,98,0" />
+        <Image Source ="C:\Users\Suzanne\github\Football-API-Application\football_view\Images\bundesliga.png" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="1" Grid.RowSpan="2" />
+        <Image Source ="C:\Users\Suzanne\github\Football-API-Application\football_view\Images\premier-league.png" Grid.ColumnSpan="3"  Grid.RowSpan="2" Margin="6,10,127,10" Grid.Column="1" />
+        <Image Source ="C:\Users\Suzanne\github\Football-API-Application\football_view\Images\la-liga.jpg" Grid.Column="3" Grid.ColumnSpan="2"  Grid.RowSpan="2" Margin="17,0,116,0" />
+        <Image Source ="C:\Users\Suzanne\github\Football-API-Application\football_view\Images\ligue-1.jpg" Grid.Column="6" Grid.ColumnSpan="1" Grid.RowSpan="2" Margin="0,10,0,10"  />
+        <Image Source ="C:\Users\Suzanne\github\Football-API-Application\football_view\Images\serie-a.png" Grid.Column="5" Grid.ColumnSpan="2"  Grid.RowSpan="2" Margin="23,0,110,0" />
+        <Image Source ="C:\Users\Suzanne\github\Football-API-Application\football_view\Images\champions-league.jpg" Grid.Column="4" Grid.ColumnSpan="2" Grid.RowSpan="2" Margin="36,0,98,0" />
 
         <!--Header-->
 
