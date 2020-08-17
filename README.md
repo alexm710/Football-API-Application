@@ -1,4 +1,4 @@
 # Football-API-Application
 Creating an API from scratch from 2 relational databases, with CRUD added to an MVC model.
 
-![Image screenshot](./Screenshots/footballapihomepage.png)
+![Image screenshot](./Screenshots/footballapihomepage.PNG)
