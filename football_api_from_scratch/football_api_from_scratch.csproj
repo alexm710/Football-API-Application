@@ -5,11 +5,11 @@
 	  
   </PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="microsoft.entityframeworkcore" Version="3.1.1" />
-		<PackageReference Include="microsoft.entityframeworkcore.design" Version="3.1.1" />
-		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.1" />
-		<PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="3.1.1" />
-		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.1">
+		<PackageReference Include="microsoft.entityframeworkcore" Version="3.1.6" />
+		<PackageReference Include="microsoft.entityframeworkcore.design" Version="3.1.6" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.6" />
+		<PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="3.1.6" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.6">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>
